@@ -1,0 +1,201 @@
+		#container
+		{
+			font-family: Lato;
+			width: 1000px;
+			margin-left: auto;
+			margin-right: auto;
+			background-image: url("img/bloki.jpg");
+			background-repeat: no-repeat;
+		}
+							
+		#header
+		{
+			background-color: white;
+			opacity: 0.85;
+			min-height: 100px;
+			width: 700px;
+			margin-left: 150px;
+			margin-right: 150px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+			padding: 5px;
+		}
+		
+			#logo
+			{
+				font-size: 40px;
+				text-align: center;
+			}
+		
+		
+			#time
+			{
+				background-color: white;
+				opacity: 0.85;
+				min-height: 100px;
+				width: 700px;
+				margin-left: 150px;
+				margin-right: 150px;
+				margin-top: 15px;
+				margin-bottom: 15px;
+				padding: 5px;
+			}
+			
+			.info
+			{
+				list-style-type: none;
+				font-size: 20px;
+				text-align: center;	
+			}
+			
+			#location
+			{
+				background-color: white;
+				opacity: 0.85;
+				min-height: 100px;
+				width: 700px;
+				margin-left: 150px;
+				margin-right: 150px;
+				margin-top: 15px;
+				margin-bottom: 15px;
+				padding: 5px;
+			}
+						
+			#map
+			{
+				background-color: white;
+				opacity: 1;
+				width: 690px;
+				margin-left: 150px;
+				margin-right: 150px;
+				margin-top: 15px;
+				margin-bottom: 15px;
+				padding: 10px;
+			}
+			
+			#google-map
+			{
+				width: 690px;
+				height: 420px; frameborder: 0; 
+				border: 0; 
+				allowfullscreen;
+			}
+		
+			#menu
+			{
+				background-color: white;
+				opacity: 0.85;
+				min-height: 100px;
+				width: 700px;
+				margin-left: 150px;
+				margin-right: 150px;
+				margin-top: 15px;
+				margin-bottom: 15px;
+				padding: 5px;
+			}
+			
+				ol > li > ul
+				{
+					padding: 0;
+					margin-top: 5px;
+					list-style-type: none;
+				}
+				
+				#menu0
+				{
+					list-style-type: none;
+					font-size: 25px;
+					text-align: center;	
+				}
+				
+				.menu1
+				{
+					list-style-type: none;
+					font-size: 20px;
+					text-align: left;	
+				}
+				
+				.menu2
+				{
+					list-style-type: none;
+					font-size: 15px;
+					text-align: left;	
+					margin-bottom: 15px;
+				}
+			
+				.time
+				{
+					list-style-type: none;
+					font-size: 20px;
+					text-align: center;		
+				}
+		
+		#gallery
+		{
+			background-color: white;
+			opacity: 1;
+			width: 690px;
+			margin-left: 150px;
+			margin-right: 150px;
+			margin-top: 15px;
+			margin-bottom: 15px;
+			padding: 10px;	
+		}
+		
+		.foto
+		{
+			width: 687px;
+			padding: 3px;
+		}
+		
+		#copyright-box
+		{
+			background-color: white;
+			opacity: 0.85;
+			width: 682px;
+			margin-left: 150px;
+			margin-right: 150px;
+			margin-top: 5px;
+			margin-bottom: 5px;
+			padding: 15px;
+			font-size: 12px;
+			text-align: right;
+		}
+
+		#header-space
+		{
+			opacity: 0.0;
+			height: 1px;
+			width: 700px;
+			margin-left: 150px;
+			margin-right: 150px;
+		}
+		
+		#footer-space
+		{
+			opacity: 0.0;
+			height: 10px;
+			width: 700px;
+			margin-left: 150px;
+			margin-right: 150px;
+		}
+		
+a:link 
+{
+color: black;
+}
+
+a:visited 
+{
+color: black;
+}
+
+a:hover 
+{
+color: red;
+}
+
+a:active 
+{
+color: black;
+}
